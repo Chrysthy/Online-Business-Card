@@ -1,5 +1,7 @@
 body {
     background: url(../img/bg-mobile.jpg) no-repeat top center/cover;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
 
     /* background: color image repeat position/size; */
 }
@@ -7,18 +9,24 @@ body {
 #container {
     width: 360px;
     /* height: 712px; */
-    border: 1px solid greenyellow;
-
-    margin: 0 auto;
+    margin: 56px auto 0px;
 }
 
 
 #profile {
     text-align: center;
+    padding: 24px;
 }
 
 #profile img {
     width: 112px;
     border-radius: 50%;
     border: 2px solid #800080;
+}
+
+#profile p {
+    font-weight: 500;
+    line-height: 24px;
+
+    margin-top: 8px;
 }
