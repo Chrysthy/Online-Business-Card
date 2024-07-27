@@ -1,0 +1,5 @@
+body {
+    background: url(../img/bg-mobile.jpg) no-repeat top center/cover;
+
+    /* background: color image repeat position/size; */
+}
