@@ -3,3 +3,22 @@ body {
 
     /* background: color image repeat position/size; */
 }
+
+#container {
+    width: 360px;
+    /* height: 712px; */
+    border: 1px solid greenyellow;
+
+    margin: 0 auto;
+}
+
+
+#profile {
+    text-align: center;
+}
+
+#profile img {
+    width: 112px;
+    border-radius: 50%;
+    border: 2px solid #800080;
+}
