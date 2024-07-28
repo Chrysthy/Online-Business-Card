@@ -6,7 +6,8 @@ Simple Business Card Project.
 
 ## 🎬 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src/img/project-dark-mode.png)
+![App Screenshot](src/img/project-light-mode.png)
 
 
 ## 🛠 Skills
