@@ -8,8 +8,8 @@ Simple Business Card Project.
 
 <div align="center">
 
-![App Screenshot](src/img/project-dark-mode.png)
-![App Screenshot](src/img/project-light-mode.png)
+![App Screenshot]()
+![App Screenshot]()
 
 </div>
 
