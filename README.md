@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  <img alt="projeto Online Business Card" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Online Business Card" src=".github/project-dark-mode.png" width="100%">
+
+  <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="100%">
 </p>
 
 
