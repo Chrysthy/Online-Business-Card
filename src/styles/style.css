@@ -1,5 +1,5 @@
 body {
-    background: url(../img/bg-mobile.jpg) no-repeat top center/cover;
+    background: var(--bg-url) no-repeat top center/cover;
 
 
     /* background: color image repeat position/size; */
@@ -49,8 +49,8 @@ ul li a {
 
     padding: 16px 24px;
 
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    background: var(--inside-btn-color);
+    border: 1px solid var(--line-btn-color);
     border-radius: 8px;
 
     backdrop-filter: blur(4px);
@@ -63,7 +63,7 @@ ul li a {
 
 ul li a:hover {
     background: rgba(255, 255, 255, 0.05);
-    border: 1.5px solid #fff;
+    border: 1.5px solid var(--text-color);
 }
 
 

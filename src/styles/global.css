@@ -1,3 +1,15 @@
+/* dark mode */
 :root {
     --text-color: #fff;
+    --bg-url: url(../img/bg-mobile.jpg);
+    --line-btn-color: rgba(255, 255, 255, 0.5);
+    --inside-btn-color: rgba(255, 255, 255, 0.1);
+}
+
+/* light mode */
+.light {
+    --text-color: #000;
+    --bg-url: url(../img/bg-mobile-light.jpg);
+    --line-btn-color: rgba(0, 0, 0, 0.5);
+    --inside-btn-color: rgba(0, 0, 0, 0.05);
 }
