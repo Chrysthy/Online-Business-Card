@@ -12,19 +12,21 @@ body {
     padding: 0 24px;
 }
 
-
+/* profile */
 #profile {
     text-align: center;
     padding: 24px;
-    
+
 }
 
 #profile img {
     width: 112px;
+
     border-radius: 50%;
     border: 2px solid #000;
+
     filter: invert(100%)
-    /* cor da imagem */
+        /* cor da imagem */
 }
 
 #profile p {
@@ -33,6 +35,49 @@ body {
 
     margin-top: 8px;
 }
+
+
+/* switch */
+#switch {
+    /* posição do botão */
+    position: relative;
+    width: 64px;
+
+    margin: 4px auto;
+}
+
+
+#switch button {
+    width: 32px;
+    height: 32px;
+    background: #fff var(--switch-bg-url) no-repeat center;
+
+    border: 0;
+    border-radius: 50%;
+
+    /* posição do botão */
+    position: absolute;
+    top: 50%;
+    right: 0;
+    z-index: 1;
+    transform:translateY(-50%) ;
+
+}
+
+#switch span {
+    display: block;
+
+    width: 64px;
+    height: 24px;
+
+    background: var(--inside-btn-color);
+    border: 1px solid var(--line-btn-color);
+    border-radius: 9999px;
+
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
 
 
 /* Links - lista */
@@ -65,7 +110,7 @@ ul li a {
 }
 
 ul li a:hover {
-    background: var(--inse-color-hover);
+    background: var(--inside-color-hover);
     border: 1.5px solid var(--text-color);
 }
 

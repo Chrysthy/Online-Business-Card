@@ -6,6 +6,7 @@
     --inside-btn-color: rgba(255, 255, 255, 0.05);
     --inside-color-hover: rgba(0, 0, 0, 0.02);
     --icons-color: rgba(255, 255, 255, 0.2);
+    --switch-bg-url: url(../img/button-moon.svg)
 }
 
 /* light mode - cores ficam escuras*/
@@ -15,4 +16,5 @@
     --line-btn-color: rgba(0, 0, 0, 0.5);
     --inside-btn-color: rgba(0, 0, 0, 0.05);
     --icons-color: rgba(0, 0, 0, 0.1);
+    --switch-bg-url: url(../img/button-sun.svg)
 }
