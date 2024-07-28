@@ -6,9 +6,12 @@ Simple Business Card Project.
 
 ## 🎬 Screenshots
 
+<div align="center">
+
 ![App Screenshot](src/img/project-dark-mode.png)
 ![App Screenshot](src/img/project-light-mode.png)
 
+</div>
 
 ## 🛠 Skills
 
