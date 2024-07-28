@@ -16,12 +16,15 @@ body {
 #profile {
     text-align: center;
     padding: 24px;
+    
 }
 
 #profile img {
     width: 112px;
     border-radius: 50%;
-    border: 2px solid #800080;
+    border: 2px solid #000;
+    filter: invert(100%)
+    /* cor da imagem */
 }
 
 #profile p {
@@ -62,7 +65,7 @@ ul li a {
 }
 
 ul li a:hover {
-    background: rgba(255, 255, 255, 0.05);
+    background: var(--inse-color-hover);
     border: 1.5px solid var(--text-color);
 }
 
@@ -91,7 +94,7 @@ ul li a:hover {
 }
 
 #social-links a:hover {
-    background: rgba(255, 255, 255, 0.2);
+    background: var(--icons-color);
 }
 
 footer {
