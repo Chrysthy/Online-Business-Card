@@ -11,29 +11,30 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
 <p align="center">
-  <img alt="projeto Online Business Card" src=".github/project-dark-mode.png" width="100%">
+  <img alt="projeto Online Business Card" src=".github/project-dark-mode.png" width="30%">
 
-  <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="100%">
+  <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="30.4%">
 </p>
 
 
 ## 🛠 Skills
 
-* HTML;
-* CSS;
-* JavaScript.
+- HTML e CSS
+- JavaScript
+- Git e GitHub
+- Figma
 
 
 ## ✨ Features
 
-- Add links to your social media, websites, and other online resources.
-- Responsive and easy-to-use interface.
-- Light and dark modes with automatic switching.
-- Simple and quick customization.
+- Add links to your social media, websites, and other online resources;
+- Responsive and easy-to-use interface;
+- Light and dark modes with automatic switching;
+- Simple and quick customization;
 
 ## 💻 Project
 
