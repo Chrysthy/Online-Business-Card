@@ -4,10 +4,10 @@
 <p align="center">Simple Business Card Project</p>
 
 <p align="center">  
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>  
+  <a href="#-skills">Skills</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>  
 </p>
 
 <p align="center">
@@ -18,14 +18,6 @@
   <img alt="projeto Online Business Card" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🎬 Screenshots
-
-<div align="center">
-
-![App Screenshot]()
-![App Screenshot]()
-
-</div>
 
 ## 🛠 Skills
 
@@ -36,12 +28,16 @@
 
 ## ✨ Features
 
-- Temas dark e light;
-- Preview em tempo real;
-- Responsividade.
+- Add links to your social media, websites, and other online resources.
+- Responsive and easy-to-use interface.
+- Light and dark modes with automatic switching.
+- Simple and quick customization.
 
+## 💻 Project
+
+- The Online Business Card is a link aggregator used as an online business card. It allows you to centralize various important links in a single page, making it easier to share your information and contacts.
 
 ## 📜 License
 
-* [MIT](https://choosealicense.com/licenses/mit/)
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
