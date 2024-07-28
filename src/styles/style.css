@@ -24,9 +24,6 @@ body {
 
     border-radius: 50%;
     border: 2px solid #000;
-
-    filter: invert(100%)
-        /* cor da imagem */
 }
 
 #profile p {
