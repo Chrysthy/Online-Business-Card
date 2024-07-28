@@ -24,7 +24,7 @@ Simple Business Card Project.
 - Responsividade.
 
 
-## 📜 Licença
+## 📜 License
 
 * [MIT](https://choosealicense.com/licenses/mit/)
 
