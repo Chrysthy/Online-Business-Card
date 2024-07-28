@@ -59,6 +59,8 @@ body {
     z-index: 1;
     transform: translateY(-50%);
 
+    cursor: pointer;
+
 }
 
 .light #switch button {
