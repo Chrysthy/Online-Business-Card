@@ -17,7 +17,7 @@
 <p align="center">
   <img alt="projeto Online Business Card" src=".github/project-dark-mode.png" width="30%">
 
-  <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="30.4%">
+  <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="31.6%">
 </p>
 
 
