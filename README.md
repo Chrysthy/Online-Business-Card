@@ -1,4 +1,3 @@
-
 <h1 align="center"> Online Business Card </h1> 
 
 <p align="center">Simple Business Card Project</p>
