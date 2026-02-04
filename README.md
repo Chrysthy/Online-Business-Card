@@ -17,6 +17,24 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
+<br>
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://chrysthy.github.io/prompt-manager-project/index.html">
+    <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Tip: Use right-click → “Open in new tab”.</sub>
+</p>
+
+<br>
+
+## 📸 Screenshots
+
 <p align="center">
   <img alt="projeto Online Business Card" src=".github/project-dark-mode.png" width="30%">
 
@@ -48,9 +66,9 @@
 * This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
-<hr>
-<h2> Suggestions </h2>
-<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
+
 
 <br>
 <hr>
