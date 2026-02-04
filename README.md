@@ -41,6 +41,7 @@
   <img alt="projeto Online Business Card" src=".github/project-light-mode.png" width="31.6%">
 </p>
 
+<br>
 
 ## 🛠 Technologies
 
@@ -49,6 +50,7 @@
 - Git e GitHub
 - Figma
 
+<br>
 
 ## ✨ Features
 
@@ -57,18 +59,22 @@
 - Light and dark modes with automatic switching;
 - Simple and quick customization;
 
+<br>
+
 ## 💻 Project
 
 - The Online Business Card is a link aggregator used as an online business card. It allows you to centralize various important links in a single page, making it easier to share your information and contacts.
+
+<br>
 
 ## 📜 License
 
 * This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
+
 ## 🫱🏻‍🫲🏻 Contributing
 <p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
-
 
 <br>
 
